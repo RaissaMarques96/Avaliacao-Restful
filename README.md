@@ -39,8 +39,6 @@ Para iniciar a aplicação, use o seguinte comando:
 npm start
 
 
-A aplicação estará disponível em `http://localhost:5555`.
-
 ## Rotas CRUD
 
 - *Criar Usuário (POST):*
